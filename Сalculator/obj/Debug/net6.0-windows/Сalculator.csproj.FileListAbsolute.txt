@@ -1,0 +1,35 @@
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.exe
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.deps.json
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.runtimeconfig.json
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.dll
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.pdb
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.csproj.AssemblyReference.cache
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.Form1.resources
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.csproj.GenerateResource.cache
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.AssemblyInfoInputs.cache
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.AssemblyInfo.cs
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.csproj.CoreCompileInputs.cache
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.dll
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\refint\Сalculator.dll
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.pdb
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.genruntimeconfig.cache
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\ref\Сalculator.dll
+D:\Учёба\Языки программирования I\OOP\6\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.Properties.Resources.resources
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.exe
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.deps.json
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.runtimeconfig.json
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.dll
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\bin\Debug\net6.0-windows\Сalculator.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.Form1.resources
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.Properties.Resources.resources
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.csproj.GenerateResource.cache
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.AssemblyInfoInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.AssemblyInfo.cs
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.csproj.CoreCompileInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.dll
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\refint\Сalculator.dll
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\Сalculator.genruntimeconfig.cache
+C:\Users\vladm\OneDrive\Рабочий стол\Сalculator\Сalculator\obj\Debug\net6.0-windows\ref\Сalculator.dll
